@@ -75,19 +75,20 @@ print(a)
 <br> <br>
 
 # Table <br>
+  
 | left | center | right |
 |:---|:---:|---:|
 | rnn | 75 | 3rd |
 | lstm | 77 | 1st |
 | gru | 76 | 2nd |
-
-
+  
+  
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
-
+  
 # Line <br>
 ---
 ***
