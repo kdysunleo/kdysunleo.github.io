@@ -52,5 +52,5 @@ google https://google.com/ <br>
 [google](https://google.com/)
 
 # quote <br>
-> "대충 흑백사진에 글쓰면 명언같다"
-> &nbsp;&nbsp;&nbsp;&nbsp; <주말의 띵화> 침착맨
+> "대충 흑백사진에 글쓰면 명언같다" <br>
+> &nbsp;&nbsp;&nbsp;&nbsp; (<)주말의 띵화(>) 침착맨
