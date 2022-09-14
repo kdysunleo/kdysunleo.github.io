@@ -49,3 +49,10 @@ __Bold__ <br>
 <br>
 
 <br><br>
+# Link <br>
+google https://google.com/
+[google](https://google.com/)
+
+# quote <br>
+> "대충 흑백사진에 글쓰면 명언같다"
+>     <주말의 띵화> 침착맨
