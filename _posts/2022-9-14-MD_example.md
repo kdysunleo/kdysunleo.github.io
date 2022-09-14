@@ -53,4 +53,4 @@ google https://google.com/ <br>
 
 # quote <br>
 > "대충 흑백사진에 글쓰면 명언같다" <br>
-> &nbsp;&nbsp;&nbsp;&nbsp; (<)주말의 띵화(>) 침착맨
+> &nbsp;&nbsp;&nbsp;&nbsp; $\gt$주말의 띵화$\lt$ 침착맨
