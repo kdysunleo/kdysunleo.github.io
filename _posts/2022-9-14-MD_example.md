@@ -14,21 +14,19 @@ title: MD example
 ##### Title5
 ###### Title6
 
-<br><br>
+<br> <br>
 
 # Font <br>
-<br>
-
 *italic* <br>
 _italic_ <br>
 **Bold** <br>
 __Bold__ <br>
-**_Italic + Bold_**
-~~strikethrough~~
-<u>underline</u>
-<mark>mark</mark>
+**_Italic + Bold_** <br>
+~~strikethrough~~ <br>
+<u>underline</u> <br>
+<mark>mark</mark> <br>
 
-<br><br>
+<br> <br>
 
 # List <br>
 ### List with number <br>
@@ -37,22 +35,22 @@ __Bold__ <br>
 3. C
 5. D
 <br>
-### List without number
+
+### List without number <br>
 * a
 * b
-<br>
+<br> <br>
 - c
 - d
-<br>
+<br> <br>
 - e
 - f
-<br>
+<br> <br>
 
-<br><br>
 # Link <br>
-google https://google.com/
+google https://google.com/ <br>
 [google](https://google.com/)
 
 # quote <br>
 > "대충 흑백사진에 글쓰면 명언같다"
->     <주말의 띵화> 침착맨
+> &nbsp;&nbsp;&nbsp;&nbsp; <주말의 띵화> 침착맨
