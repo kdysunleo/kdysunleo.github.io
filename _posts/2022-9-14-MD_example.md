@@ -48,15 +48,14 @@ __Bold__ <br>
 <br> <br>
 
 # Link <br>
-google https://google.com/ <br>
+google  https://google.com/  <br>
 [google](https://google.com/)
 
 # quote <br>
-> "대충 흑백사진에 글쓰면 명언같다" <br>
-> &nbsp;&nbsp;&nbsp;&nbsp; $<$주말의 띵화$>$ 침착맨 <br>
->> A <br>
->>> B <br>
-
+> "대충 흑백사진에 글쓰면 명언같다"
+> &nbsp;&nbsp;&nbsp;&nbsp; $<$주말의 띵화$>$ 침착맨
+>> A
+>>> B
 <br> <br>
 
 # Image <br>
