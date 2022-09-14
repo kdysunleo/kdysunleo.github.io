@@ -75,7 +75,7 @@ print(a)
 <br> <br>
 
 # Table <br>
-|left|center|right|
+| left | center | right |
 |:---|:---:|---:|
 | rnn | 75 | 3rd |
 | lstm | 77 | 1st |
@@ -85,4 +85,3 @@ print(a)
 ---
 ***
 ---
-```
