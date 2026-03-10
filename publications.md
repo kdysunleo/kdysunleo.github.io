@@ -18,6 +18,7 @@ layout: page
 	</li>
 </ul>
 <br>
+
 <h2>International Conference Papers</h2>
 <ul class="international-conference-paper-list">
 	<li>
@@ -26,10 +27,12 @@ layout: page
 	</li>
 </ul>
 <br>
+
 <h2>Domestic Journal Papers</h2>
 <ul class="domestic-journal-paper-list">
 </ul>
 <br>
+
 <h2>Domestic Conference Papers</h2>
 <ul class="domestic-conference-paper-list">
 	<li>
