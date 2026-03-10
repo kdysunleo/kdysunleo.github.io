@@ -1,6 +1,6 @@
 # main text of home
-full-name: Choi, Bongguen
-name: B.Choi
+full-name: Kim, Dooyoung
+name: Dooyoung
 bio: Ph.D Candidate at SKKU
 
 # twitter summary info
@@ -20,7 +20,7 @@ resume-url: https://google.com/?q=my+resume
 
 #url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
-url: https://bg-choi.github.io
+url: https://kdysunleo.github.io
 
 permalink: /:title/
 
@@ -42,10 +42,10 @@ disqus:
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: bonggeunc
+linkedin: dooyoung
 # youtube: myyoutube
 # spotify: myspotify
-github: bg-choi
+github: kdysunleo
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -54,11 +54,11 @@ github: bg-choi
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: bonggeun.choi818@gmail.com
+email: kdysunleo98@gmail.com
 
 authors:
     bg.choi:
-        name: Choi, Bonggeun
+        name: Kim, Dooyoung
         bio: Ph.D Candidate at SKKU
         external-image: false
         picture: assets/images/profile.png
