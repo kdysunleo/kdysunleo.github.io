@@ -22,7 +22,19 @@ layout: page
 <h2>International Conference Papers</h2>
 <ul class="international-conference-paper-list">
 	<li>
-		Youngjae Chang, Dooyoung Kim, Jinyoung Kim, Hyunmook Cha, Keunha Kim, Sooyoung Min, Youngjoong Ko, Kye-Hwan Lee, and Joonwoo Park. <strong>Contrastively Pretrained Vision-Language Transformers and Domain Adaptation Methods for Multimodal TOD Systems.</strong>. <em>Proceedings of the DSTC11 Workshop in the 24th Annual Meeting on the Special Interest Group on Discourse and Dialogue (SIGdial 2023)</em>, in Prague, September 2023. <!--(BK Plus Computer Science IF=3) -->
+		Seungmin Shin, Dooyoung Kim, and Youngjoong Ko. <strong>ECO Decoding: Entropy-Based Control for Controllability and Fluency in Controllable Dialogue Generation</strong>. <em>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)</em>, in Suzhou, China, November 2025. (BK Plus Computer Science IF=3)
+		[<a href="https://aclanthology.org/2024.emnlp-industry.108.pdf">paper</a>]
+	</li>
+	<li>
+		Hyunsu Cho, Dooyoung Kim, and Youngjoong Ko. <strong>CDAPI: Domain Adaptive Toxicity Probe Vector Intervention for Fine-Grained Detoxification</strong>. <em>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL 2025, findings)</em>, in Vienna, Austria, July 2025. (BK Plus Computer Science IF=4)
+		[<a href="https://aclanthology.org/2024.emnlp-industry.108.pdf">paper</a>]
+	</li>
+	<li>
+		Dooyoung Kim, Yoonjin Jang, Dongwook Shin, Chanhoon Park, and Youngjoong Ko. <strong>QKSG: Framework for Automating Query Generation and Knowledge-Snippet Extraction from Tables and Lists</strong>. <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024, Industry Track)</em>, in Miami, Florida, USA, November 2024. (BK Plus Computer Science IF=3)
+		[<a href="https://aclanthology.org/2024.emnlp-industry.108.pdf">paper</a>]
+	</li>
+	<li>
+		Youngjae Chang, Dooyoung Kim, Jinyoung Kim, Hyunmook Cha, Keunha Kim, Sooyoung Min, Youngjoong Ko, Kye-Hwan Lee, and Joonwoo Park. <strong>Contrastively Pretrained Vision-Language Transformers and Domain Adaptation Methods for Multimodal TOD Systems</strong>. <em>Proceedings of the DSTC11 Workshop in the 24th Annual Meeting on the Special Interest Group on Discourse and Dialogue (SIGdial 2023)</em>, in Prague, September 2023. <!--(BK Plus Computer Science IF=3) -->
 		[<a href="https://aclanthology.org/2024.emnlp-industry.108.pdf">paper</a>]
 	</li>
 </ul>
@@ -30,6 +42,14 @@ layout: page
 
 <h2>Domestic Journal Papers</h2>
 <ul class="domestic-journal-paper-list">
+	<li>
+		Jiyeol Park, Dooyoung Kim, and Youngjoong Ko. <strong>Explainable Video Search System using Token Space-based Representation (토큰 공간 기반 표상을 활용한 설명가능 동영상 검색 시스템)</strong>. <em>Journal of Korean Institute of Information Scientists and Engineers (KIISE), Vol. 51, No. 12, pp. 1068-1077</em>, December 2024. (ISSN 2383-630X)
+		[<a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224112&width=1920">paper</a>]
+	</li>
+	<li>
+		Dooyoung Kim, and Youngjoong Ko. <strong>Retrieval System using One-to-one Relation between Clip-Sentence Sequence (클립-문장열의 일대일대응 관계를 이용한 동영상 검색 시스템)</strong>. <em>Journal of Korean Institute of Information Scientists and Engineers (KIISE), Vol. 50, No. 6, pp. 476-483</em>, June 2023. (ISSN 2383-630X)
+		[<a href="[https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224112&width=1920](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11435972)">paper</a>]
+	</li>
 </ul>
 <br>
 
