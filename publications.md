@@ -22,7 +22,7 @@ layout: page
 <h2>International Conference Papers</h2>
 <ul class="international-conference-paper-list">
 	<li>
-		Bonggeun Choi, Jungjae Park, Yoonsung Kim, Jae-Hyun Park, and Youngjoong Ko. <strong>RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings</strong>. <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024, Industry Track)</em>, in Miami, Florida, USA, November 2024. (BK Plus Computer Science IF=3)
+		Youngjae Chang, Dooyoung Kim, Jinyoung Kim, Hyunmook Cha, Keunha Kim, Sooyoung Min, Youngjoong Ko, Kye-Hwan Lee, and Joonwoo Park. <strong>Contrastively Pretrained Vision-Language Transformers and Domain Adaptation Methods for Multimodal TOD Systems.</strong>. <em>Proceedings of the DSTC11 Workshop in the 24th Annual Meeting on the Special Interest Group on Discourse and Dialogue (SIGdial 2023)</em>, in Prague, September 2023. <!--(BK Plus Computer Science IF=3) -->
 		[<a href="https://aclanthology.org/2024.emnlp-industry.108.pdf">paper</a>]
 	</li>
 </ul>
