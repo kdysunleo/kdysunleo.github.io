@@ -17,7 +17,7 @@ Especially, my research lies on improving LLM performance by Reinforcement Learn
 
 <h2>Introduce</h2>
 <p align="left">
-	I'm a Ph.D. candidate in <a href="https://nlplab-skku.github.io/">Natural Language Processing (NLP) Lab</a> at Sungkyunkwan University (SKKU). My research focuses on <strong>Natural Language Processing</strong>, particularly for <strong>Reinforcement Learning</strong> and <strong>Controllable Text Generation</strong>. I'm especially interested in improving LLM through RL.</p>
+	I'm a Ph.D. candidate in <a href="https://nlplab-skku.github.io/">Natural Language Processing (NLP) Lab</a> at Sungkyunkwan University (SKKU). My research focuses on <strong>Natural Language Processing (NLP)</strong>, particularly for <strong>Reinforcement Learning (RL)</strong> and <strong>Controllable Text Generation (CTG)</strong>. I'm especially interested in improving LLM through RL.</p>
 <br>
 
 <!-- <h3 align="center">Contact</h3>
@@ -30,7 +30,7 @@ kdysunleo98@gmail.com
 <h2>Interests</h2>
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
-	<li>Reinforcement Learning(RL)</li>
+	<li>Reinforcement Learning (RL)</li>
 	<li>Controllable Text Generation</li>
 </ul>
 <br>
