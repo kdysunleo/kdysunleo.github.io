@@ -8,7 +8,7 @@ layout: page
 
 <h2>Current Projects</h2>
 <ul class="project-list">
-<!--  <li>2024.04~2026.12. <em>정보통신기획평가원(IITP)</em>. <strong>사회적, 윤리적 학습을 위한 데이터 특성 및 생성 AI 모델의 윤리성 향상 연구</strong>.</li> -->
+  <li>2024.04~2026.12. <em>정보통신기획평가원(IITP)</em>. <strong>사회적, 윤리적 학습을 위한 데이터 특성 및 생성 AI 모델의 윤리성 향상 연구</strong>.</li>
 </ul>
 
 <h2>Past Projects</h2>
