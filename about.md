@@ -30,8 +30,9 @@ kdysunleo98@gmail.com
 <h2>Interests</h2>
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
-	<li>Reinforcement Learning (RL)</li>
-	<li>Controllable Text Generation</li>
+	<li>Reinforcement Learning (2025-current)</li>
+	<li>Controllable Text Generation (2023-2025)</li>
+	<li>Multi-Modal AI (2021-2023)</li>
 </ul>
 <br>
 
