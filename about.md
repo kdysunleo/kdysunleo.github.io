@@ -43,6 +43,7 @@ kdysunleo98@gmail.com
 	<li>2021.09 ~ 2023.09: <strong>M.S.</strong> in Software Engineering at SKKU</li>
     <li>2017.03 ~ 2021.09: <strong>B.S.</strong> in Software Engineering at SKKU</li>
 </ul>
+<br>
 
 <h2>Activities</h2>
 <ul class="careers">
