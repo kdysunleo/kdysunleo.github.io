@@ -43,3 +43,10 @@ kdysunleo98@gmail.com
 	<li>2021.09 ~ 2023.09: <strong>M.S.</strong> in Software Engineering at SKKU</li>
     <li>2017.03 ~ 2021.09: <strong>B.S.</strong> in Software Engineering at SKKU</li>
 </ul>
+
+<h2>Awards</h2>
+<ul class="careers">
+	<li>2021.03: [성균관대학교] 제 2회 AIxBOOKATHON 대회 대상</li>
+	<li>2024.02: [문화체육관광부 및 국립국어원] 2021년도 국립국어원 인공 지능 언어 능력 평가 특별상 </li>
+	<li>2021.09: [문화체육관광부 및 국립국어원] 2020년도 국어 정보 처리 시스템 경진대회 동상 </li>
+</ul>
